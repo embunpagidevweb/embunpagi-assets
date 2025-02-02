@@ -1,0 +1,37 @@
+{
+  "_bootstrap-z-Rg4TxU.js": {
+    "file": "assets/bootstrap-z-Rg4TxU.js",
+    "name": "bootstrap"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-DCiDG6-q.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/css/embunpagi.css": {
+    "file": "assets/embunpagi-QghUhpXw.css",
+    "src": "resources/css/embunpagi.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-DCsHcs0k.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "imports": [
+      "_bootstrap-z-Rg4TxU.js"
+    ],
+    "css": [
+      "assets/app-DCsfZbvD.css"
+    ]
+  },
+  "resources/js/embunpagi.js": {
+    "file": "assets/embunpagi-Ccu4gcPa.js",
+    "name": "embunpagi",
+    "src": "resources/js/embunpagi.js",
+    "isEntry": true,
+    "imports": [
+      "_bootstrap-z-Rg4TxU.js"
+    ]
+  }
+}
